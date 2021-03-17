@@ -18,15 +18,18 @@ DIRECTORY STRUCTURE :
 
 
 ==> INSTALLING DEPENDENCIES:
-	1. Creating a virtual environment
+1. Creating a virtual environment
 		virtualenv -p python3 env
-	2. Installing all packages 
+2. Installing all packages 
 		pip3 install -r requirements.txt
 
 ==> All Code is present in the folder src
+
 ==> Test cases are present in the folder tests
 
+
 ==> SERVER
+
 1. The server code is present in the file called server.py.
 
 2. For running the code
