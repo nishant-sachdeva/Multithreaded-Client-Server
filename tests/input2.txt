@@ -1,0 +1,19 @@
+add_graph G1 9
+get_mst G1
+add_edge G1 2 5 4
+add_edge G1 0 7 8
+add_edge G1 7 6 1
+add_edge G1 6 5 2
+add_edge G1 0 1 4
+get_mst G1
+add_edge G1 8 2 2
+add_edge G1 7 8 7
+add_edge G1 8 6 6
+add_edge G1 1 2 8
+get_mst G1
+add_edge G1 2 3 7
+add_edge G1 5 4 10
+add_edge G1 3 4 9
+add_edge G1 3 5 14
+add_edge G1 1 7 11
+get_mst G1
