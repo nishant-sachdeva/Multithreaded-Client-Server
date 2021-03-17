@@ -3,16 +3,16 @@ We are implementing the assignment in python :
 DIRECTORY STRUCTURE : 
 
 => 2018111040
-	-> Ds_Assignment2.pdf
-	-> README.md
-	-> requirements.txt
-	-> src
-		--> client.py
-		--> server.py
-		--> mst.py
-	-> test
-		--> input.txt
-		--> input2.txt
+1. Ds_Assignment2.pdf
+2. README.md
+3. requirements.txt
+4. src
+	1. client.py
+	2. server.py
+	3. mst.py
+5. test
+	1. input.txt
+	2. input2.txt
 
 
 
